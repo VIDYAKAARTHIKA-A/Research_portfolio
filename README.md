@@ -9,7 +9,7 @@
 
 ### 👋 About Me
 
-I’m a **B.Tech (Honours) Computer Science** student at **IIIT Kottayam** (CGPA: **9.35/10**) passionate about building **robust, interpretable, and trustworthy AI systems**. My research bridges **Multimodal AI**, **Representation Learning**, **Generative Models**, and **Medical AI**, with applications spanning healthcare, cybersecurity, assistive technologies, and public policy.
+I’m a **B.Tech (Honours) Computer Science** student at **IIIT Kottayam** (CGPA: **9.35/10**) passionate about building **robust, interpretable, and trustworthy AI systems**. My research spans Multimodal AI, Representation Learning, Generative Models, and Medical AI, with real-world applications in healthcare, cybersecurity, assistive technologies, and public policy.
 
 ---
 
@@ -24,35 +24,17 @@ I’m a **B.Tech (Honours) Computer Science** student at **IIIT Kottayam** (CGPA
 
 ---
 
-### 🔬 Research Exploration Timeline
+### 🔬 Research Exploration
 
-**2024 – Present**  
-**Multimodal AI, Generative Models & Robust Representation Learning**
-
-- **Generative Adversarial Networks & Image Synthesis**  
-  Conducted in-depth comparative analysis of **25+ GAN architectures** (ESRGAN, Pix2Pix, DeblurGAN, Progressive GAN, etc.), evaluating training stability, mode collapse, latent representations, and perceptual quality.  
-  Engineered a **GAN-based aerial image enhancement & stitching pipeline** that improved PSNR from **15 dB to 27 dB** for drone surveillance imagery, significantly boosting feature matching and reconstruction quality.
-
-- **Multimodal Assistive AI — VisionMate**  
-  Built an end-to-end multimodal assistive system for visually impaired users, integrating **YOLOv8** for real-time object detection and **BLIP** for contextual captioning with audio narration. Developed a mobile-ready inference pipeline using Flask and Kivy for hands-free scene understanding.
-
-- **Explainable Medical Audio Intelligence — EchoVitals**  
-  Developed a fine-tuned **Audio Spectrogram Transformer (AST)** model achieving **92% diagnostic accuracy** for respiratory and voice disorders.  
-  Integrated **LIME, SHAP, and Integrated Gradients** for clinical-grade explainability. Recognized at **Bit ’n’ Build Hackathon 2025** for innovation in interpretable healthcare AI.
-
-- **Noise-Robust Representation Learning for Medical Imaging** *(Ongoing Core Research)*  
-  Leading research on self-supervised contrastive learning under noisy labels, severe class imbalance, and domain shifts.  
-  Designing noise-aware optimization pipelines using Gaussian Mixture Models (GMM), curriculum learning, and Symmetric Cross Entropy loss to improve generalization in safety-critical clinical applications.
-
-**2025 Internships – Applied AI & Agentic Systems**
-
-- **Machine Learning Intern, CloudSEK** (Jun–Aug 2025)  
-  Developed a **multimodal fake application detection framework** using LangChain-based agents, combining logo verification, developer profiling, phishing detection, and anomaly analysis.  
-  Improved multi-class webpage classification accuracy from **86% to 93%** and reduced false positives by **60%** under adversarial conditions.
-
-- **Summer Research Intern, DataHub, IIT Kharagpur** (May–Jul 2025)  
-  Automated large-scale Selenium pipelines to extract and structure **6,000+ RTI records**.  
-  Built a **LangChain-powered RAG system** for accurate, citation-backed responses on policy and governance data across multiple ministries.
+| Period                  | Research Area                              | Key Contributions |
+|-------------------------|--------------------------------------------|-------------------|
+| **2024**                | Generative Adversarial Networks & Image Synthesis | In-depth analysis of **25+ GAN architectures** (ESRGAN, Pix2Pix, DeblurGAN, Progressive GAN, etc.). Developed GAN-based aerial image enhancement & stitching pipeline improving **PSNR from 15 dB to 27 dB**. |
+| **2024**                | Image Stitching & Geometric Alignment     | Mastered classical and learning-based stitching pipelines including homography estimation, multi-view registration, and advanced warping techniques for aerial/surveillance imagery. |
+| **2025**           | Multimodal Assistive AI — **VisionMate**  | Built end-to-end multimodal system integrating **YOLOv8** (real-time detection) + **BLIP** (contextual captioning) with audio narration. Developed mobile inference pipeline for visually impaired users. |
+| **2025**           | Explainable Medical Audio Intelligence — **EchoVitals** | Developed fine-tuned **Audio Spectrogram Transformer (AST)** achieving **92% diagnostic accuracy**. Integrated **LIME, SHAP & Integrated Gradients** for clinical explainability. Recognized at Bit ’n’ Build Hackathon 2025. |
+| **2024–Present**        | Noise-Robust Representation Learning for Medical Imaging *(Ongoing Core Research)* | Leading research on self-supervised contrastive learning under noisy labels, class imbalance & domain shifts. Designing noise-aware pipelines using GMM, curriculum learning & Symmetric Cross Entropy. |
+| **May–Jul 2025**        | Summer Research Intern, **DataHub, IIT Kharagpur** | Built Selenium pipelines for **6,000+ RTI records** and developed **LangChain RAG system** for citation-backed policy & governance responses. |
+| **Jun–Aug 2025**        | Machine Learning Intern, **CloudSEK**      | Created multimodal fake app detection framework using LangChain agents. Improved webpage classification accuracy from **86% to 93%** and reduced false positives by **60%**. |
 
 ---
 
@@ -74,9 +56,9 @@ I’m a **B.Tech (Honours) Computer Science** student at **IIIT Kottayam** (CGPA
 
 **ML/DL Frameworks**: PyTorch • TensorFlow • Scikit-learn  
 
-**Research & AI Tools**: LangChain • Hugging Face • OpenCV • LIME • SHAP • Librosa • Pandas • NumPy  
+**Research Tools**: LangChain • Hugging Face • OpenCV • LIME • SHAP • Librosa • Pandas • NumPy  
 
-**Systems & Deployment**: Docker • Kubernetes • AWS • GCP • Git  
+**Deployment**: Docker • Kubernetes • AWS • GCP • Git  
 
 **Core Domains**: Multimodal AI • Generative Models • Computer Vision • Explainable AI • Robust Learning
 
@@ -84,9 +66,8 @@ I’m a **B.Tech (Honours) Computer Science** student at **IIIT Kottayam** (CGPA
 
 ### 🌱 Research Philosophy
 
-I strive to develop AI systems that go beyond accuracy — systems that are **robust to real-world noise**, **interpretable by humans**, and **trustworthy in high-stakes domains**. My journey reflects both broad technical exploration and deepening specialization in reliable multimodal and medical intelligence.
+I strive to develop AI systems that are not only accurate but also **robust to real-world imperfections**, **interpretable**, and **trustworthy** in high-stakes domains such as healthcare and cybersecurity.
 
 ---
 
-**Open to research collaborations, internships, and discussions!**  
-Feel free to explore my repositories and get in touch.
+**Open to research collaborations and opportunities!**
