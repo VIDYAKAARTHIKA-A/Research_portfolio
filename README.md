@@ -2,7 +2,7 @@
   <h1>Vidya Kaarthika Akella</h1>
   <h3>Undergraduate Researcher | Multimodal AI | Representation Learning | Trustworthy AI</h3>
   
-  [LinkedIn](YOUR_LINKEDIN_LINK) • [GitHub](https://github.com/YOUR_USERNAME) • [Email](mailto:avkaarthika@gmail.com) • +91 8754536021
+  [LinkedIn](www.linkedin.com/in/vidyakaarthikaakella) • [GitHub](https://github.com/VIDYAKAARTHIKA-A) • [Email](mailto:avkaarthika@gmail.com) • +91 8754536021
 </div>
 
 ---
