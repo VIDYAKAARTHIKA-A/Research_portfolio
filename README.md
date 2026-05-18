@@ -9,7 +9,7 @@
 
 ### 👋 About Me
 
-I’m a **B.Tech (Honours) Computer Science** student at **IIIT Kottayam** (CGPA: **9.35/10**) passionate about building **robust, interpretable, and trustworthy AI systems**. My research spans Multimodal AI, Representation Learning, Generative Models, and Medical AI, with real-world applications in healthcare, cybersecurity, assistive technologies, and public policy.
+I’m a final year **B.Tech (Honours) Computer Science** student at **IIIT Kottayam** (CGPA: **9.35/10**) passionate about building **robust, interpretable, and trustworthy AI systems**. My research spans Multimodal AI, Representation Learning, Generative Models, and Medical AI, with real-world applications in healthcare, cybersecurity, assistive technologies, and public policy.
 
 ---
 
